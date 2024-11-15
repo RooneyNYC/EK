@@ -8,9 +8,9 @@
           <div class="footer-about">
             <a href="index.html" class="logo sitename">EK Gerking</a>
             <div class="footer-contact pt-3">
-              <p>Strobelallee 50</p>
-              <p>D-44139 Dortmund</p>
-              <p class="mt-3"><strong>Telefon:</strong> <span>+49 231 - 90 20 0</span></p>
+              <p>Altensenner Weg 53</p>
+              <p>D-32052 Herford</p>
+              <p class="mt-3"><strong>Telefon:</strong> <span>+49 123 456 789</span></p>
               <p><strong>Email:</strong> <span>Daniel@Gerking.de</span></p>
             </div>
             
