@@ -1,20 +1,40 @@
 <?php require_once("./layout/header.php");?>
 
-<h1>Login</h1>
-<form>
-    <div class="form-group">
-    <label for="username">Benutzername:</label>
-    <input type="text" class="form-control" id="username" placeholder="Enter username">
-</div>
-    <div class="form-group">
-        <label for="password">Passwort:</label>
-        <input type="password" class="form-control" id="password" placeholder="Enter password">
-    </div>
-        <button type="submit" class="btn btn-primary">Einloggen</button>
-</form>
-</div>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<br>
+<br>
+<br>
+<br>
+<br>
+    <div class= "container1">
+    <h2 style="width: 30%; padding: 8px; margin: 8px auto; text-align: center">Login</h2>
+    
+    <form>
+      <!-- Benutzername -->
+      <label for="username" style="width: 30%; padding: 8px; margin: 8px auto; text-align: center">Benutzername:</label><br>
+      <input type="text" id="username" name="username" placeholder="Benutzername eingeben" 
+             style="width: 30%; padding: 10px; margin-bottom: 16px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
+      <br>
+      <!-- Passwort -->
+      <label for="password" style="width: 30%; padding: 8px; margin: 8px auto; text-align: center">Passwort:</label><br>
+      <input type="password" id="password" name="password" placeholder="Passwort eingeben" 
+             style="width: 30%; padding: 10px; margin-bottom: 20px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
+      <br>
+      <!-- Login-Button -->
+      <button type="submit" 
+              style="width: 30%; padding: 10px; background-color: #007bff; color: white; border: none; border-radius: 4px; font-size: 16px; cursor: pointer;">
+        Login
+      </button>
+      <br>
+      <!-- Passwort vergessen-Link -->
+      <p style="margin-top: 15px;">
+        <a href="#" style="color: #007bff; text-decoration: none;">Passwort vergessen?</a>
+      </p>
+    </form>
+
+  </div>
+  </body> 
+
+    
 
     
 
