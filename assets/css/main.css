@@ -1709,3 +1709,18 @@ section,
   /* Add your styles here */
 }
 
+.container1 {
+  background-color: white;
+  max-width: 2000px; /* Breite des Containers */
+  width: 100%;
+  padding: 30px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Schatten für besseren Kontrast */
+  
+}
+
+/* Zentrierung von Texten und Formular */
+.container1 h1, 
+.container1 p,
+.container1 form {
+    text-align: center;
+}

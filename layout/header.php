@@ -58,13 +58,14 @@
         <a href="index.html" class="logo d-flex align-items-center">
           <!-- Uncomment the line below if you also wish to use an image logo -->
           <!-- <img src="assets/img/logo.png" alt=""> -->
-          <h1 class="sitename">Homepage</h1>
+          <h1 class="sitename">EK Gerking</h1>
         </a>
 
         <nav id="navmenu" class="navmenu">
           <ul>
             <li><a href="index.php" class="active">Startseite</a></li>
             <li><a href="./about.php" class="active">Über mich</a></li>
+            <li><a href="./login.php" class="active">Einloggen</a></li>
             <li><a href="./contact.php" class="active">Kontakt</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
