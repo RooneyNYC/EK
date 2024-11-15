@@ -21,15 +21,20 @@
     </div>
 
     <div class="col-lg-6 order-2 order-lg-1 content" data-aos="fade-up" data-aos-delay="200">
-      <h3>Nicht wahrheitsgemäßer Werdegang</h3>
+      <h3>Ein kleine Auswahl aus meinem Leben</h3>
       <p class="fst-italic"><br>
-        In diesem Bereich stehen die wichtigsten persönlichen Ereignisse
+        Eine kleine Liste der Ereignisse aus meinem Leben</p>
       </p>
       <ul>
         <br>
-        <li><i class="bi bi-check-circle"></i> <span>Geboren</span></li><br>
-        <li><i class="bi bi-check-circle"></i> <span>Gelebt / Gelitten</span></li><br>
-        <li><i class="bi bi-check-circle"></i> <span>Gestorben</span></li><br>
+        <li><i class="bi bi-check-circle"></i> <span>1985 Geboren</span></li><br>
+        <li><i class="bi bi-check-circle"></i> <span>1992 - 2003 Schulbildung</span></li><br>
+        <li><i class="bi bi-check-circle"></i> <span>Seit 1999 BVB - Mitglied</span></li><br>
+        <li><i class="bi bi-check-circle"></i> <span>2001 Karriereende als Fußballer</span></li><br>
+        <li><i class="bi bi-check-circle"></i> <span>2003 Trainerlizenz erhalten</span></li><br>
+        <li><i class="bi bi-check-circle"></i> <span>2023 Hochzeit</span></li><br>
+        <li><i class="bi bi-check-circle"></i> <span>2024 Geburt des ersten Kindes</span></li><br>
+        
       </ul>
     </div>
 
